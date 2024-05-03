@@ -11,10 +11,42 @@
     {
       "id": 2,
       "description": "X-TUDO",
-      "type":"outcome",
-      "category":"Alimentacao",
+      "type": "outcome",
+      "category": "Alimentacao",
       "price": 20,
-      "createdAt":"2024-05-03T10:07:14.642Z"
+      "createdAt": "2024-05-03T10:07:14.642Z"
+    },
+    {
+      "description": "Terere",
+      "price": 20,
+      "category": "Alimento",
+      "type": "outcome",
+      "createdAt": "2024-05-03T19:15:18.631Z",
+      "id": 3
+    },
+    {
+      "description": "Copo Stanley",
+      "price": 110,
+      "category": "Alimento",
+      "type": "outcome",
+      "createdAt": "2024-05-03T19:41:56.738Z",
+      "id": 4
+    },
+    {
+      "description": "Capinar quintal",
+      "price": 50,
+      "category": "Capinada",
+      "type": "income",
+      "createdAt": "2024-05-03T19:46:42.345Z",
+      "id": 5
+    },
+    {
+      "description": "Corta cabeo",
+      "price": 5,
+      "category": "Barbearia",
+      "type": "outcome",
+      "createdAt": "2024-05-03T19:52:53.999Z",
+      "id": 6
     }
   ]
 }
