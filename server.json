@@ -1,0 +1,20 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de jogos",
+      "type": "income",
+      "category": "Venda",
+      "price": 2300,
+      "createdAt": "2024-05-03T13:07:14.642Z"
+    },
+    {
+      "id": 2,
+      "description": "X-TUDO",
+      "type":"outcome",
+      "category":"Alimentacao",
+      "price": 20,
+      "createdAt":"2024-05-03T10:07:14.642Z"
+    }
+  ]
+}
