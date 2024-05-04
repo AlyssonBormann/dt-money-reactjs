@@ -47,6 +47,22 @@
       "type": "outcome",
       "createdAt": "2024-05-03T19:52:53.999Z",
       "id": 6
+    },
+    {
+      "description": "Eu e  casca de bala",
+      "price": 97,
+      "category": "Bala",
+      "type": "income",
+      "createdAt": "2024-05-04T02:10:07.938Z",
+      "id": 7
+    },
+    {
+      "description": "Fone de ouvido",
+      "price": 999,
+      "category": "Eletronicos",
+      "type": "outcome",
+      "createdAt": "2024-05-04T02:44:51.243Z",
+      "id": 8
     }
   ]
 }
